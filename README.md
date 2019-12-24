@@ -1,4 +1,15 @@
-![enter image description here](http://new.zeit-coin.net/wp-content/uploads/zeitlogo4.png)
+Zeitcoin Custom Version 2.0.2.0. αΔ àlphadelta
+
+Deta Goals
+
+Δ1 Debug chain syncing.
+Δ2 Memory usage.
+Δ3 Gui changes.
+Δ4 Documentaion updates.
+
+Start date: Christmas 2019
+
+Historical:
 
 Zeitcoin is an innovative, secure and energy efficient PoST coin.  (Proof of Staked Transactions)
 By moving to Ultra Low Inflation, ZEIT Users will be able to earn more coins , 
