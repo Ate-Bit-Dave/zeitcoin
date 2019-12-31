@@ -1,4 +1,4 @@
-Zeitcoin Custom Version 2.0.2.0. αΔ àlphadelta
+Zeitcoin Custom Version 2.0.2.2. αΔ àlphadelta
 
 Deta Goals
 
